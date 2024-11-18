@@ -23,5 +23,5 @@ The **Healthcare Patient Management System** is a web-based application designed
 
 ## **Technology Stack**  
 - **Backend:** Django  
-- **Frontend:** Django Templates with optional integration of Bootstrap/Tailwind CSS  
-- **Database:** SQLite (default) or configurable with PostgreSQL/MySQL  
+- **Frontend:** Django Templates with integration of Bootstrap/Tailwind CSS  
+- **Database:** SQLite 
